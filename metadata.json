@@ -1,0 +1,6 @@
+{
+  "name": "LedgerPulse ERP — Modern Accounting & Business OS",
+  "description": "Next-generation professional accounting and business management platform replacing legacy ERPs with dual ergonomics, keyboard-first speed, double-entry integrity, and real-time GST compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

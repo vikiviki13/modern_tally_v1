@@ -1,0 +1,2873 @@
+{
+  "tenants": [
+    {
+      "id": "018f92a1-7c4a-71b3-8fa9-715d2a901f01",
+      "name": "Apex Horizon Technologies Pvt Ltd",
+      "legalName": "Apex Horizon Technologies Private Limited",
+      "gstin": "27AABCA1234F1Z1",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "createdAt": "2026-09-30T04:48:24.074Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.712Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "0e813b1c-e6ac-4c58-9445-3ba18cd08488",
+      "createdAt": "2026-09-30T04:48:24.165Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.712Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "gstin": "27AAACT2727Q1ZB",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "862eed2e-0233-47c5-ad81-9dbc2c0fb2ef",
+      "createdAt": "2026-09-30T04:48:24.365Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AAACT2727Q",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.712Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "c07d33e0-8f05-467f-95b6-198644d96173",
+      "createdAt": "2026-09-30T04:48:24.543Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "6264eed2-98df-432f-94c4-ba9cac89a819",
+      "createdAt": "2026-09-30T04:51:39.076Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "gstin": "27AAACT2727Q1ZB",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "88c0bccf-5c7d-4017-942a-ebd207b9d803",
+      "createdAt": "2026-09-30T04:51:39.283Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AAACT2727Q",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "4cdf5380-9f10-4e01-95c0-17d74fc8131f",
+      "createdAt": "2026-09-30T04:51:39.473Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "15ddbadf-9562-4313-9da8-550ad4db7573",
+      "createdAt": "2026-09-30T04:54:57.255Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "gstin": "27AAACT2727Q1ZB",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "6de5c3de-32b7-40cb-876a-1c5f7e6755f5",
+      "createdAt": "2026-09-30T04:54:57.465Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AAACT2727Q",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "stateCode": "27",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "id": "8e9ffcf9-49a1-4ae9-b5a3-24581bec18c8",
+      "createdAt": "2026-09-30T04:54:57.661Z",
+      "businessType": "PVT_LTD",
+      "industry": "Information Technology",
+      "country": "India",
+      "state": "Maharashtra",
+      "address": {
+        "street": "101 Horizon Tech Park, Andheri East",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400069"
+      },
+      "pan": "AABCA1234F",
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "updatedAt": "2026-09-30T04:57:31.713Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR2424P1Z4",
+      "pan": "AABCR2424P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "a2e46486-2b74-4953-8516-f3d9c7e0726c",
+      "createdAt": "2026-09-30T04:57:31.720Z",
+      "updatedAt": "2026-09-30T04:57:31.720Z"
+    },
+    {
+      "name": "Duplicate GSTIN Corp",
+      "legalName": "Duplicate GSTIN Corp Private Limited",
+      "businessType": "PVT_LTD",
+      "industry": "Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Head Office",
+        "city": "Commercial Hub",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ1758Q1ZB",
+      "pan": "AAACZ1758Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "ba28fde4-a3e9-4a6a-a4ee-e04d453a40ce",
+      "createdAt": "2026-09-30T04:57:57.500Z",
+      "updatedAt": "2026-09-30T04:57:57.500Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR1758P1Z4",
+      "pan": "AABCR1758P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "a8e9a6cc-16a7-4240-8c14-3045a391c843",
+      "createdAt": "2026-09-30T04:57:57.503Z",
+      "updatedAt": "2026-09-30T04:57:57.503Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ9952Q1ZB",
+      "pan": "AAACZ9952Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "ebc4162f-9955-4059-801f-abd58fe20f12",
+      "createdAt": "2026-09-30T04:58:06.948Z",
+      "updatedAt": "2026-09-30T04:58:06.951Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR9952P1Z4",
+      "pan": "AABCR9952P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "e9e02b2b-03b2-4009-8257-48a1eea9a8bd",
+      "createdAt": "2026-09-30T04:58:06.952Z",
+      "updatedAt": "2026-09-30T04:58:06.952Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "stateCode": "27",
+      "currency": "INR",
+      "id": "aad64b85-6a9c-470f-a83a-ada3bf49853b",
+      "createdAt": "2026-09-30T04:58:12.558Z",
+      "updatedAt": "2026-09-30T04:58:12.558Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "gstin": "27AAACT2727Q1ZB",
+      "stateCode": "27",
+      "currency": "INR",
+      "id": "5243dd5e-6749-4a07-a3f1-f4ad2b309558",
+      "createdAt": "2026-09-30T04:58:12.783Z",
+      "updatedAt": "2026-09-30T04:58:12.783Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "stateCode": "27",
+      "currency": "INR",
+      "id": "79690d0e-b62c-4f96-b3f7-3cdca7857d35",
+      "createdAt": "2026-09-30T04:58:12.996Z",
+      "updatedAt": "2026-09-30T04:58:12.996Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ7918Q1ZB",
+      "pan": "AAACZ7918Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "5242f8da-ed25-4ed1-ae1d-3c423838b7c1",
+      "createdAt": "2026-09-30T04:58:13.829Z",
+      "updatedAt": "2026-09-30T04:58:13.833Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR7918P1Z4",
+      "pan": "AABCR7918P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "7f4fc71e-34cb-4434-a2a1-a322f76b33d6",
+      "createdAt": "2026-09-30T04:58:13.833Z",
+      "updatedAt": "2026-09-30T04:58:13.833Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "d8f47b51-4a1b-461c-b65a-de83af7c6b63",
+      "createdAt": "2026-09-30T05:01:57.817Z",
+      "updatedAt": "2026-09-30T05:01:57.817Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACT2727Q1ZB",
+      "pan": "AAACT2727Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "28c892f5-76a6-4c77-a7c7-9847ab161caa",
+      "createdAt": "2026-09-30T05:01:58.031Z",
+      "updatedAt": "2026-09-30T05:01:58.031Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "cff414e4-2fb7-42f0-901f-0823b555ef0e",
+      "createdAt": "2026-09-30T05:01:58.237Z",
+      "updatedAt": "2026-09-30T05:01:58.237Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ1626Q1ZB",
+      "pan": "AAACZ1626Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "fba3a317-538d-414c-beaf-1abbb89ba957",
+      "createdAt": "2026-09-30T05:01:59.059Z",
+      "updatedAt": "2026-09-30T05:01:59.063Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR1626P1Z4",
+      "pan": "AABCR1626P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "899714ce-ebbc-40cc-a578-e16d3f5f80e8",
+      "createdAt": "2026-09-30T05:01:59.064Z",
+      "updatedAt": "2026-09-30T05:01:59.064Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ1794Q1ZB",
+      "pan": "AAACZ1794Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "46adea70-bb23-4c44-805e-3ee1c407dd8e",
+      "createdAt": "2026-09-30T05:02:35.320Z",
+      "updatedAt": "2026-09-30T05:02:35.325Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR1794P1Z4",
+      "pan": "AABCR1794P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "ed9143af-252a-468e-ab43-80b234832446",
+      "createdAt": "2026-09-30T05:02:35.326Z",
+      "updatedAt": "2026-09-30T05:02:35.326Z"
+    },
+    {
+      "name": "Acme Test Corp",
+      "legalName": "Acme Test Corp Private Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "572b133a-f874-467b-adf7-975786462a9b",
+      "createdAt": "2026-09-30T05:02:54.777Z",
+      "updatedAt": "2026-09-30T05:02:54.777Z"
+    },
+    {
+      "name": "Tata Steel Enterprises",
+      "legalName": "Tata Steel Enterprises Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACT2727Q1ZB",
+      "pan": "AAACT2727Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "16e1d510-6f40-45d7-99ce-dc2adbd2581c",
+      "createdAt": "2026-09-30T05:02:54.976Z",
+      "updatedAt": "2026-09-30T05:02:54.976Z"
+    },
+    {
+      "name": "Suspended Corp",
+      "legalName": "Suspended Corp Private Limited",
+      "businessType": "PVT_LTD",
+      "industry": "General Enterprise",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "Registered Corporate Office",
+        "city": "Commercial Capital",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "5044993a-a66a-4c83-bac9-e06c06044996",
+      "createdAt": "2026-09-30T05:02:55.164Z",
+      "updatedAt": "2026-09-30T05:02:55.164Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ1559Q1ZB",
+      "pan": "AAACZ1559Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "f7463125-3853-44cf-8285-b93e5e1c5591",
+      "createdAt": "2026-09-30T05:02:55.983Z",
+      "updatedAt": "2026-09-30T05:02:55.988Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR1559P1Z4",
+      "pan": "AABCR1559P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "32439459-711a-47c4-a801-2ee5ab23e970",
+      "createdAt": "2026-09-30T05:02:55.989Z",
+      "updatedAt": "2026-09-30T05:02:55.989Z"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "legalName": "Tata Consultancy Services Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Information Technology & Consulting",
+      "country": "India",
+      "state": "Maharashtra",
+      "stateCode": "27",
+      "address": {
+        "street": "TCS House, Raveline Street, Fort",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "stateCode": "27",
+        "country": "India",
+        "pincode": "400001"
+      },
+      "gstin": "27AAACZ5569Q1ZB",
+      "pan": "AAACZ5569Q",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": true,
+        "freezeDate": "2026-06-30"
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_WEIGHTED_AVG",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": false,
+          "multiCurrency": true
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": false,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "TCS/{FY}/",
+          "startingNumber": 100,
+          "defaultCreditDays": 45,
+          "termsAndConditions": "TCS Enterprise SLA Net 45 Terms."
+        }
+      },
+      "id": "d3833d3e-e83b-48c5-932b-98abf7dc0667",
+      "createdAt": "2026-09-30T05:03:19.330Z",
+      "updatedAt": "2026-09-30T05:03:19.335Z"
+    },
+    {
+      "name": "Reliance Retail Ventures Ltd",
+      "legalName": "Reliance Retail Ventures Limited",
+      "businessType": "PUBLIC_LTD",
+      "industry": "Retail & Consumer Goods",
+      "country": "India",
+      "state": "Gujarat",
+      "stateCode": "24",
+      "address": {
+        "street": "Reliance Corporate Park, Ghansoli",
+        "city": "Navi Mumbai",
+        "state": "Gujarat",
+        "stateCode": "24",
+        "country": "India",
+        "pincode": "400701"
+      },
+      "gstin": "24AABCR5569P1Z4",
+      "pan": "AABCR5569P",
+      "currency": {
+        "code": "INR",
+        "symbol": "₹",
+        "decimalPlaces": 2,
+        "formatLocale": "en-IN"
+      },
+      "financialYear": {
+        "name": "FY 2026-27",
+        "startDate": "2026-04-01",
+        "endDate": "2027-03-31",
+        "isLocked": false
+      },
+      "booksBeginningDate": "2026-04-01",
+      "preferences": {
+        "accounting": {
+          "inventoryValuation": "PERPETUAL_FIFO",
+          "billWiseTracking": true,
+          "preventNegativeCash": true,
+          "enforceCreditLimit": true,
+          "multiCurrency": false
+        },
+        "inventory": {
+          "multiGodown": true,
+          "batchTracking": true,
+          "orderProcessing": true,
+          "separateDiscountCol": true
+        },
+        "tax": {
+          "gstRegistrationType": "REGULAR",
+          "eInvoicingApplicable": true,
+          "eWayBillApplicable": true,
+          "rcmApplicable": false,
+          "defaultGstRate": 18
+        },
+        "invoicing": {
+          "voucherNumbering": "AUTO_SEQUENTIAL",
+          "prefix": "INV/{FY}/",
+          "startingNumber": 1,
+          "defaultCreditDays": 30,
+          "termsAndConditions": "Payment due within 30 days of invoice date. Interest @ 18% p.a. will be charged on overdue payments."
+        }
+      },
+      "id": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "createdAt": "2026-09-30T05:03:19.337Z",
+      "updatedAt": "2026-09-30T05:03:19.337Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "email": "admin@apexerp.com",
+      "passwordHash": "cee8e33a1955a3c565c0f02d912e259adf29d6934756c351f8e7ad5d3a38fa6d57f8a27328b2d09c2c536d8fca4a4e8515b4ea631e1def0041c62cf5eb0575b0",
+      "salt": "94525ba18606caf6debb31d4c77fc75a",
+      "fullName": "Rohit Varma, FCA",
+      "role": "SUPER_ADMIN",
+      "tenantId": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "isActive": true,
+      "createdAt": "2026-09-30T04:48:24.159Z",
+      "lastLoginAt": "2026-09-30T04:54:50.495Z"
+    },
+    {
+      "email": "test_sec_1790743704165@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "72c3045dc34954e095425295f90b0af7bb16b90ac5deb48818e785c301c2940f371d58cf221f44f140430915c4eba44d30a16873a8606d9deb1b15035f229eae",
+      "salt": "d679d35796a698a096e8ca93767606ee",
+      "role": "SUPER_ADMIN",
+      "tenantId": "0e813b1c-e6ac-4c58-9445-3ba18cd08488",
+      "isActive": true,
+      "id": "e18f45fc-a6c1-4c46-b18d-c4205f3c70d1",
+      "createdAt": "2026-09-30T04:48:24.244Z"
+    },
+    {
+      "email": "cfo_1790743704364@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "cb645b01e42e83f6cf4c8656f5050df0ad088332783c777086ad1334785d8e39fda25d5e31a8bca4f224d8a5ee080a545ec4ffac404144c545276d0abbb7c511",
+      "salt": "ff6268db6a8a0e28202de88d1350c545",
+      "role": "SUPER_ADMIN",
+      "tenantId": "862eed2e-0233-47c5-ad81-9dbc2c0fb2ef",
+      "isActive": true,
+      "id": "93fff82e-3c77-48f0-be38-d73d5b55e9cc",
+      "createdAt": "2026-09-30T04:48:24.424Z",
+      "lastLoginAt": "2026-09-30T04:48:24.717Z"
+    },
+    {
+      "email": "suspended_1790743704543@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "7f3e6a1ebc6468987c70baf70fac49a45a29f508738921b2dbe08e4ffc4972e02fe9dfa02f0319b36a4d77e2123668f6e9d4095e64e0efba6dbd65ec148a1a53",
+      "salt": "dec412daafc5adcfdb91b2d6f13cccba",
+      "role": "SUPER_ADMIN",
+      "tenantId": "c07d33e0-8f05-467f-95b6-198644d96173",
+      "isActive": false,
+      "id": "2071de6b-7c20-4209-9c84-3fbf8aa4c4be",
+      "createdAt": "2026-09-30T04:48:24.601Z"
+    },
+    {
+      "email": "test_sec_1790743899075@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "312a13e484e517aeefe8a7ae3c28565074b15dfc546a3cfd0fe9833a524546e2ea47be9173f07cf47ff81be83e22497e3b74002b8184c99941d9f5d998d590e1",
+      "salt": "e260947a701bac493d759c50ba6b8354",
+      "role": "SUPER_ADMIN",
+      "tenantId": "6264eed2-98df-432f-94c4-ba9cac89a819",
+      "isActive": true,
+      "id": "e3cc8ae3-6934-4b29-97a3-e6c19572dfbe",
+      "createdAt": "2026-09-30T04:51:39.150Z"
+    },
+    {
+      "email": "cfo_1790743899282@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "126c92f019b49c93abe9453f2e26bcac6f04f3bf615dcb72e1be5d2999975b1d45cf2fa12853d1d2026d4c56980434f973cf4f2b301c8ede016f6e63caf14966",
+      "salt": "f9b4f0316bc1ad5506cced32efc4d6f6",
+      "role": "SUPER_ADMIN",
+      "tenantId": "88c0bccf-5c7d-4017-942a-ebd207b9d803",
+      "isActive": true,
+      "id": "974ebf48-53b6-4072-8c1c-dfa237ac0713",
+      "createdAt": "2026-09-30T04:51:39.345Z",
+      "lastLoginAt": "2026-09-30T04:51:39.684Z"
+    },
+    {
+      "email": "suspended_1790743899473@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "b787fc9bc6d42cc339cfe6522a6b24871f6c80df798e3bdea7e16015ea113f22c02aea5d46fa5a812dec2bb04256fa289b279a26273ccb5b0608b6b349375cbe",
+      "salt": "eb501c35e0fcc539cbe809f2fa30e484",
+      "role": "SUPER_ADMIN",
+      "tenantId": "4cdf5380-9f10-4e01-95c0-17d74fc8131f",
+      "isActive": false,
+      "id": "da8f4681-e1e1-442e-9a8f-76c3ef40dab6",
+      "createdAt": "2026-09-30T04:51:39.536Z"
+    },
+    {
+      "email": "test_sec_1790744097254@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "c2b8de1422e5ebc671fa3c9e3c62f28a07045ef89c5b3a69917f2421b1f968f73f1bac8a44c343d6740fc8544d2cb5f439f55ecd3dde29d36425bcab3dd9fdf7",
+      "salt": "25a776a34b1c439ccacf539f8beef30c",
+      "role": "SUPER_ADMIN",
+      "tenantId": "15ddbadf-9562-4313-9da8-550ad4db7573",
+      "isActive": true,
+      "id": "5666bd77-c552-49ea-ac2c-0b17a668bd43",
+      "createdAt": "2026-09-30T04:54:57.332Z"
+    },
+    {
+      "email": "cfo_1790744097465@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "fc088cbf5685c0875076a883ce1da9db80edc8be9c8b5c214c0b10d4f9550c7790b83f15a6b51531dec8d82985f716b6580f6bdaf904f14695ed99d39be4da69",
+      "salt": "4ff0a6383cd00b50e442cb84a41cfc59",
+      "role": "SUPER_ADMIN",
+      "tenantId": "6de5c3de-32b7-40cb-876a-1c5f7e6755f5",
+      "isActive": true,
+      "id": "91e527c1-8906-461f-8340-e5413a921f7b",
+      "createdAt": "2026-09-30T04:54:57.532Z",
+      "lastLoginAt": "2026-09-30T04:54:57.863Z"
+    },
+    {
+      "email": "suspended_1790744097661@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "fcc153574c36a26dc7ab54c45963a2aa9ec8fb39300fd87146204816dbf295dd798bda3bf2d3eb6ca75ce1b60452e2578f70d62b454a4ffffb18172a6138ebff",
+      "salt": "7f9c8755476e5c9b4e3e2824f9d560c8",
+      "role": "SUPER_ADMIN",
+      "tenantId": "8e9ffcf9-49a1-4ae9-b5a3-24581bec18c8",
+      "isActive": false,
+      "id": "a17e18b5-392a-4dc5-a8b7-cb84b451db1b",
+      "createdAt": "2026-09-30T04:54:57.727Z"
+    },
+    {
+      "email": "test_sec_1790744292557@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "bbc7a145f1cfded3b20e22506546663148a95cd2d1f975058f634042d8b97395532315ffe4f1a9b50e0882d56e496571939bcdc2f44a8093c88d3704d85f7526",
+      "salt": "17d01974d8d03444efe934f736c1bd77",
+      "role": "SUPER_ADMIN",
+      "tenantId": "aad64b85-6a9c-470f-a83a-ada3bf49853b",
+      "isActive": true,
+      "id": "b05635c8-e8c2-417e-9138-6a6cbf209648",
+      "createdAt": "2026-09-30T04:58:12.637Z"
+    },
+    {
+      "email": "cfo_1790744292782@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "231e9bee3262e2cc58c3a3733db73dd2c87a53d49ae25624d4537181a48b2340c996e7c4ef4498f731c67322b0b578856a1d21b30fb6eab6fa7c9b181610f84d",
+      "salt": "4a17cf87a09a6743414bdd5b2ca2f49b",
+      "role": "SUPER_ADMIN",
+      "tenantId": "5243dd5e-6749-4a07-a3f1-f4ad2b309558",
+      "isActive": true,
+      "id": "789f865c-361a-4a3d-a238-2473be877468",
+      "createdAt": "2026-09-30T04:58:12.855Z",
+      "lastLoginAt": "2026-09-30T04:58:13.217Z"
+    },
+    {
+      "email": "suspended_1790744292996@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "8b21fb00231108e81b5cb735af4ec826c50784453250ad3ea9cb0c3fb999333773826ad1b874b4132ddd0e26ca9645dc65a3ec237d3855d36d147a04e93ae4cd",
+      "salt": "598d411eeb3cc0d4bcdb420502693e22",
+      "role": "SUPER_ADMIN",
+      "tenantId": "79690d0e-b62c-4f96-b3f7-3cdca7857d35",
+      "isActive": false,
+      "id": "29abea38-4505-42c7-ae65-c88c5c82ce6e",
+      "createdAt": "2026-09-30T04:58:13.069Z"
+    },
+    {
+      "email": "test_sec_1790744517817@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "dcb86736222a3a6b409d7dd38cbb3acc085cfe913d2c019b70319283dac639b95670820d67011ebbf376f02c58b4291f67ffffd7595f1cd3c6d46de3b756b40d",
+      "salt": "48712ff45a1d37e1bc71413fb1c696f6",
+      "role": "SUPER_ADMIN",
+      "tenantId": "d8f47b51-4a1b-461c-b65a-de83af7c6b63",
+      "isActive": true,
+      "id": "357c08cc-3d88-4156-895c-e0adf0eb2660",
+      "createdAt": "2026-09-30T05:01:57.892Z"
+    },
+    {
+      "email": "cfo_1790744518031@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "061a7d4fa3d7ec10692def6c4e24272e2bbe5be8f659666082c60cd97b92f378e2a0cddd1f4c3c28f00b65d05c30451bdca657b522ccab754961923391e5cbe4",
+      "salt": "863a9f47df9e3263927416928819b26c",
+      "role": "SUPER_ADMIN",
+      "tenantId": "28c892f5-76a6-4c77-a7c7-9847ab161caa",
+      "isActive": true,
+      "id": "054006af-ddda-4452-85f0-bf49ff42eb1a",
+      "createdAt": "2026-09-30T05:01:58.096Z",
+      "lastLoginAt": "2026-09-30T05:01:58.455Z"
+    },
+    {
+      "email": "suspended_1790744518237@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "5b687cc1c115d716a88d3693aa4c574a07368fdc551293dae2bb5572c857e775932f16bf2af80b1997824a6c8a7061852703303cd56243b15024e15bd6654d9e",
+      "salt": "2aeeb51b2cf3ec7825fff053db93f71d",
+      "role": "SUPER_ADMIN",
+      "tenantId": "cff414e4-2fb7-42f0-901f-0823b555ef0e",
+      "isActive": false,
+      "id": "19ada93a-6a3e-4b7a-8825-35a21879d2ad",
+      "createdAt": "2026-09-30T05:01:58.303Z"
+    },
+    {
+      "email": "test_sec_1790744574776@acme.com",
+      "fullName": "Security Auditor",
+      "passwordHash": "3eb635bf2699211b76fb4a04c2151dc37954c49c01debecbc1bc6b93bbe8a194d0525ee6d681ca96654313a5a9fb526202adcc8d7a3e40a2fb737ceb26fc8b2f",
+      "salt": "433801d0c5507d134fc3737baed74f44",
+      "role": "SUPER_ADMIN",
+      "tenantId": "572b133a-f874-467b-adf7-975786462a9b",
+      "isActive": true,
+      "id": "57ff649d-832f-4417-9337-ab9989869cdc",
+      "createdAt": "2026-09-30T05:02:54.850Z"
+    },
+    {
+      "email": "cfo_1790744574976@tatasteel.com",
+      "fullName": "Ratan Tata",
+      "passwordHash": "57e868d3aea88aea5ef3e17f031242c1e4302d24ff79d28544faaebdbde4345858ec2c3707f9c2cd28d08e063135808daf6747946a0c6987eb9c8d2975de4c96",
+      "salt": "ab3c60974de2492db09328f9f31c6b58",
+      "role": "SUPER_ADMIN",
+      "tenantId": "16e1d510-6f40-45d7-99ce-dc2adbd2581c",
+      "isActive": true,
+      "id": "7dea2239-4765-4813-a608-9b117548e686",
+      "createdAt": "2026-09-30T05:02:55.036Z",
+      "lastLoginAt": "2026-09-30T05:02:55.380Z"
+    },
+    {
+      "email": "suspended_1790744575164@corp.com",
+      "fullName": "Suspended Employee",
+      "passwordHash": "f4d053bf4f7a5ba7e603beda8cdc732fdc3b5fc5c4d03006e4758a3e85cdc1b8d4444150c5e6ebb53c797631da0fb309aa49cc943471b3f33c9a3693bf8ef1fc",
+      "salt": "00e2d49a595ce95ab55dada355487e8c",
+      "role": "SUPER_ADMIN",
+      "tenantId": "5044993a-a66a-4c83-bac9-e06c06044996",
+      "isActive": false,
+      "id": "4aeb5d6a-9634-42b3-b87f-fb3b7ae883a9",
+      "createdAt": "2026-09-30T05:02:55.227Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlMThmNDVmYy1hNmMxLTRjNDYtYjE4ZC1jNDIwNWYzYzcwZDEiLCJ0ZW5hbnRJZCI6IjBlODEzYjFjLWU2YWMtNGM1OC05NDQ1LTNiYTE4Y2QwODQ4OCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0MzcwNCwiZXhwIjoxNzkwODMwMTA0fQ.0viQH9-hxZ01khTo_ENf5NsmTees6VS5IhVkqi3TPsU",
+      "userId": "e18f45fc-a6c1-4c46-b18d-c4205f3c70d1",
+      "tenantId": "0e813b1c-e6ac-4c58-9445-3ba18cd08488",
+      "expiresAt": "2026-10-01T04:48:24.244Z",
+      "id": "3d192da4-de3e-45b0-8223-f327e7c52c38",
+      "createdAt": "2026-09-30T04:48:24.245Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIyMDcxZGU2Yi03YzIwLTQyMDktOWM4NC0zZmJmOGFhNGM0YmUiLCJ0ZW5hbnRJZCI6ImMwN2QzM2UwLThmMDUtNDY3Zi05NWI2LTE5ODY0NGQ5NjE3MyIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0MzcwNCwiZXhwIjoxNzkwODMwMTA0fQ.yUFA9gVSaVtLvftrJb56WQWNbzyVERy08rgHpxT3NDE",
+      "userId": "2071de6b-7c20-4209-9c84-3fbf8aa4c4be",
+      "tenantId": "c07d33e0-8f05-467f-95b6-198644d96173",
+      "expiresAt": "2026-10-01T04:48:24.601Z",
+      "id": "784edd2f-70f1-4161-857c-ef2b032d1f26",
+      "createdAt": "2026-09-30T04:48:24.601Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlM2NjOGFlMy02OTM0LTRiMjktOTdhMy1lNmMxOTU3MmRmYmUiLCJ0ZW5hbnRJZCI6IjYyNjRlZWQyLTk4ZGYtNDMyZi05NGM0LWJhOWNhYzg5YTgxOSIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0Mzg5OSwiZXhwIjoxNzkwODMwMjk5fQ.jepyBiToTfqNL8CxDAVBVLnRxvhlZTwrhpsppDnkPsk",
+      "userId": "e3cc8ae3-6934-4b29-97a3-e6c19572dfbe",
+      "tenantId": "6264eed2-98df-432f-94c4-ba9cac89a819",
+      "expiresAt": "2026-10-01T04:51:39.151Z",
+      "id": "1251e1af-2783-482b-8e5d-115d1e5f97a6",
+      "createdAt": "2026-09-30T04:51:39.151Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJkYThmNDY4MS1lMWUxLTQ0MmUtOWE4Zi03NmMzZWY0MGRhYjYiLCJ0ZW5hbnRJZCI6IjRjZGY1MzgwLTlmMTAtNGUwMS05NWMwLTE3ZDc0ZmM4MTMxZiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0Mzg5OSwiZXhwIjoxNzkwODMwMjk5fQ.0WwtG70oB5QpEOij3t4HykVBXYpL1PXRmHsChOe5zXs",
+      "userId": "da8f4681-e1e1-442e-9a8f-76c3ef40dab6",
+      "tenantId": "4cdf5380-9f10-4e01-95c0-17d74fc8131f",
+      "expiresAt": "2026-10-01T04:51:39.537Z",
+      "id": "65da3576-baee-4c29-9f8a-087af8f5fedc",
+      "createdAt": "2026-09-30T04:51:39.537Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6IjAxOGY5MmExLTdjNGEtNzFiMy04ZmE5LTcxNWQyYTkwMWYwMSIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDA5MCwiZXhwIjoxNzkxMzQ4ODkwfQ.nUpe0aXe-Te2bWulrGAOXyaCf9oU4FpHchdN8eJPyy8",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "018f92a1-7c4a-71b3-8fa9-715d2a901f01",
+      "expiresAt": "2026-10-07T04:54:50.496Z",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "id": "026faffc-f9b8-4044-b5de-a2d3f66fd019",
+      "createdAt": "2026-09-30T04:54:50.496Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1NjY2YmQ3Ny1jNTUyLTQ5ZWEtYWMyYy0wYjE3YTY2OGJkNDMiLCJ0ZW5hbnRJZCI6IjE1ZGRiYWRmLTk1NjItNDMxMy05ZGE4LTU1MGFkNGRiNzU3MyIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDA5NywiZXhwIjoxNzkwODMwNDk3fQ.fl2OQVtENkGUJHu61NwMaPRwuvxtjYpfvYI2qObeE78",
+      "userId": "5666bd77-c552-49ea-ac2c-0b17a668bd43",
+      "tenantId": "15ddbadf-9562-4313-9da8-550ad4db7573",
+      "expiresAt": "2026-10-01T04:54:57.333Z",
+      "id": "5c321574-09ac-465b-ad90-a6ec2023c70f",
+      "createdAt": "2026-09-30T04:54:57.333Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhMTdlMThiNS0zOTJhLTRkYzUtYThiNy1jYjg0YjQ1MWRiMWIiLCJ0ZW5hbnRJZCI6IjhlOWZmY2Y5LTQ5YTEtNGFlOS1iNWEzLTI0NTgxYmVjMThjOCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDA5NywiZXhwIjoxNzkwODMwNDk3fQ.la0kRsRUpkCfUxxIppYjeeODNWj5ovwO4f9nZxSm7e0",
+      "userId": "a17e18b5-392a-4dc5-a8b7-cb84b451db1b",
+      "tenantId": "8e9ffcf9-49a1-4ae9-b5a3-24581bec18c8",
+      "expiresAt": "2026-10-01T04:54:57.727Z",
+      "id": "8e554e36-0c0c-497f-ae79-301b2ec1c9b0",
+      "createdAt": "2026-09-30T04:54:57.727Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6ImEyZTQ2NDg2LTJiNzQtNDk1My04NTE2LWYzZDljN2UwNzI2YyIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI1MSwiZXhwIjoxNzkwODMwNjUxfQ.o4Q9LGAs-YdW8SqpmNn8xYk6BN25Y-zc1pQjRVvOvWU",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "a2e46486-2b74-4953-8516-f3d9c7e0726c",
+      "expiresAt": "2026-10-01T04:57:31.723Z",
+      "id": "3d74b76f-9847-4e02-9ae9-8a8bb70ebbe5",
+      "createdAt": "2026-09-30T04:57:31.723Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6ImE4ZTlhNmNjLTE2YTctNDI0MC04YzE0LTMwNDVhMzkxYzg0MyIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI3NywiZXhwIjoxNzkwODMwNjc3fQ.MsPWPVgvISx-fAcVbvEbMmBqd7TP2lul2r7u_VoDvl0",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "a8e9a6cc-16a7-4240-8c14-3045a391c843",
+      "expiresAt": "2026-10-01T04:57:57.506Z",
+      "id": "abaa099c-aaf2-413d-8f35-b329834dc8f8",
+      "createdAt": "2026-09-30T04:57:57.506Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6ImU5ZTAyYjJiLTAzYjItNDAwOS04MjU3LTQ4YTFlZWE5YThiZCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI4NiwiZXhwIjoxNzkwODMwNjg2fQ.Uue7_Hh4G4ySlyo1UwzT6KsS9NPCLSIyuXx4cnmNZNM",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "e9e02b2b-03b2-4009-8257-48a1eea9a8bd",
+      "expiresAt": "2026-10-01T04:58:06.955Z",
+      "id": "36b020b4-c00a-4ffd-affd-e4d4ed136647",
+      "createdAt": "2026-09-30T04:58:06.955Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiMDU2MzVjOC1lOGMyLTQxN2UtOTEzOC02YTZjYmYyMDk2NDgiLCJ0ZW5hbnRJZCI6ImFhZDY0Yjg1LTZhOWMtNDcwZi1hODNhLWFkYTNiZjQ5ODUzYiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI5MiwiZXhwIjoxNzkwODMwNjkyfQ.LbK_GCqH6I7SaHlqAu0oR9FB7EtLnQE0_CuIMCr53G8",
+      "userId": "b05635c8-e8c2-417e-9138-6a6cbf209648",
+      "tenantId": "aad64b85-6a9c-470f-a83a-ada3bf49853b",
+      "expiresAt": "2026-10-01T04:58:12.638Z",
+      "id": "9a7a3f2e-d6fd-45ac-9996-3245b091a198",
+      "createdAt": "2026-09-30T04:58:12.638Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIyOWFiZWEzOC00NTA1LTQyYzctYWU2NS1jODhjNWM4MmNlNmUiLCJ0ZW5hbnRJZCI6Ijc5NjkwZDBlLWI2MmMtNGY5Ni1iM2Y3LTNjZGNhNzg1N2QzNSIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI5MywiZXhwIjoxNzkwODMwNjkzfQ.LKf9WQ2b_lv89zwSbp-rwiV7uj1PMW7zAdWpESzpvLg",
+      "userId": "29abea38-4505-42c7-ae65-c88c5c82ce6e",
+      "tenantId": "79690d0e-b62c-4f96-b3f7-3cdca7857d35",
+      "expiresAt": "2026-10-01T04:58:13.070Z",
+      "id": "446fd7f7-81af-4862-9889-ea634f40da91",
+      "createdAt": "2026-09-30T04:58:13.070Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3ODlmODY1Yy0zNjFhLTRhM2QtYTIzOC0yNDczYmU4Nzc0NjgiLCJ0ZW5hbnRJZCI6IjUyNDNkZDVlLTY3NDktNGEwNy1hM2YxLWY0YWQyYjMwOTU1OCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI5MywiZXhwIjoxNzkwODMwNjkzfQ.F0XzhCrfFl1szFnvnlfonAz_gnT-HZEH7FiUd02ld2s",
+      "userId": "789f865c-361a-4a3d-a238-2473be877468",
+      "tenantId": "5243dd5e-6749-4a07-a3f1-f4ad2b309558",
+      "expiresAt": "2026-10-01T04:58:13.219Z",
+      "id": "5869e1ea-3f67-45a5-8ffb-bc903bdb0646",
+      "createdAt": "2026-09-30T04:58:13.219Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6IjdmNGZjNzFlLTM0Y2ItNDQzNC1hMmExLWEzMjJmNzZiMzNkNiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDI5MywiZXhwIjoxNzkwODMwNjkzfQ.A9ShDLAR-49z2qgjMbEdUN5uFN7RcmpVdHA9ptCo6-k",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "7f4fc71e-34cb-4434-a2a1-a322f76b33d6",
+      "expiresAt": "2026-10-01T04:58:13.837Z",
+      "id": "86ff0485-5114-4e01-b50b-b8f197fb3265",
+      "createdAt": "2026-09-30T04:58:13.837Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzNTdjMDhjYy0zZDg4LTQxNTYtODk1Yy1lMGFkZjBlYjI2NjAiLCJ0ZW5hbnRJZCI6ImQ4ZjQ3YjUxLTRhMWItNDYxYy1iNjVhLWRlODNhZjdjNmI2MyIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDUxNywiZXhwIjoxNzkwODMwOTE3fQ.rHcaf2OiHiuFBI_kL1Ke0zpBeFq0VwQ1SToNgjAxm-o",
+      "userId": "357c08cc-3d88-4156-895c-e0adf0eb2660",
+      "tenantId": "d8f47b51-4a1b-461c-b65a-de83af7c6b63",
+      "expiresAt": "2026-10-01T05:01:57.893Z",
+      "id": "4320f769-f70c-44b6-95bd-637e58afcbbc",
+      "createdAt": "2026-09-30T05:01:57.893Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxOWFkYTkzYS02YTNlLTRiN2EtODgyNS0zNWEyMTg3OWQyYWQiLCJ0ZW5hbnRJZCI6ImNmZjQxNGU0LTJmYjctNDJmMC05MDFmLTA4MjNiNTU1ZWYwZSIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDUxOCwiZXhwIjoxNzkwODMwOTE4fQ.klNqCCdxmImh8pP7EcBOMc9caNDntkqkavLFyDuKZZw",
+      "userId": "19ada93a-6a3e-4b7a-8825-35a21879d2ad",
+      "tenantId": "cff414e4-2fb7-42f0-901f-0823b555ef0e",
+      "expiresAt": "2026-10-01T05:01:58.304Z",
+      "id": "53d38ac5-15a2-4972-ac13-ba8c802a496a",
+      "createdAt": "2026-09-30T05:01:58.304Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6Ijg5OTcxNGNlLWViYmMtNDBjYy1hNTc4LWUxNmQzZjVmODBlOCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDUxOSwiZXhwIjoxNzkwODMwOTE5fQ.eTnPaADAV36lfIYP1W09NWGFoVSaqDIg1gfHBCWdvvI",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "899714ce-ebbc-40cc-a578-e16d3f5f80e8",
+      "expiresAt": "2026-10-01T05:01:59.068Z",
+      "id": "4d5b3fd3-7ee2-453e-b8a4-68b12b4e913d",
+      "createdAt": "2026-09-30T05:01:59.068Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6ImVkOTE0M2FmLTI1MmEtNDY4ZS1hYjQzLTgwYjIzNDgzMjQ0NiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDU1NSwiZXhwIjoxNzkwODMwOTU1fQ.7cOvk6o81PcK_sw1gmR956e_ndv_RH3UWLW_qcbTco4",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "ed9143af-252a-468e-ab43-80b234832446",
+      "expiresAt": "2026-10-01T05:02:35.337Z",
+      "id": "4a308036-f73b-47fa-bb1e-405a3b74e97d",
+      "createdAt": "2026-09-30T05:02:35.338Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1N2ZmNjQ5ZC04MzJmLTQ0MTctOTMzNy1hYjk5ODk4NjljZGMiLCJ0ZW5hbnRJZCI6IjU3MmIxMzNhLWY4NzQtNDY3Yi1hZGY3LTk3NTc4NjQ2MmE5YiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDU3NCwiZXhwIjoxNzkwODMwOTc0fQ.tyRtJl0nWvKoIBh4TefxbelF3lS-S4SQIDZEkBXPnJU",
+      "userId": "57ff649d-832f-4417-9337-ab9989869cdc",
+      "tenantId": "572b133a-f874-467b-adf7-975786462a9b",
+      "expiresAt": "2026-10-01T05:02:54.852Z",
+      "id": "4e66669e-842d-4616-a5a9-daccc26b05f2",
+      "createdAt": "2026-09-30T05:02:54.852Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0YWViNWQ2YS05NjM0LTQyYjMtYjg3Zi1mYjNiN2FlODgzYTkiLCJ0ZW5hbnRJZCI6IjUwNDQ5OTNhLWE2NmEtNGM4My1iYWM5LWUwNmMwNjA0NDk5NiIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDU3NSwiZXhwIjoxNzkwODMwOTc1fQ.1jsmiKbrmzUXMKWez_haZInJfUP9LlXdNxbZxoP9-Do",
+      "userId": "4aeb5d6a-9634-42b3-b87f-fb3b7ae883a9",
+      "tenantId": "5044993a-a66a-4c83-bac9-e06c06044996",
+      "expiresAt": "2026-10-01T05:02:55.228Z",
+      "id": "12f0ba23-df61-4f2d-8e96-10f1f3be1c8e",
+      "createdAt": "2026-09-30T05:02:55.228Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6IjMyNDM5NDU5LTcxMWEtNDdjNC1hODAxLTJlZTVhYjIzZTk3MCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDU3NSwiZXhwIjoxNzkwODMwOTc1fQ.zPKH8qx9GNg1u3aLlbiEp3wh-1XWo3CKNmUsfQSxWXw",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "32439459-711a-47c4-a801-2ee5ab23e970",
+      "expiresAt": "2026-10-01T05:02:55.993Z",
+      "id": "d5591989-14a2-4938-8e79-49b0b682bf39",
+      "createdAt": "2026-09-30T05:02:55.993Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMThmOTJhMS03YzRhLTcxYjMtOGZhOS03MTVkMmE5MDFlMDEiLCJ0ZW5hbnRJZCI6IjQ1ODI3NzhiLTVlMWEtNDY0NC05ZWUwLTBkM2M5YmZhNzc2ZCIsInJvbGUiOiJTVVBFUl9BRE1JTiIsImlhdCI6MTc5MDc0NDU5OSwiZXhwIjoxNzkwODMwOTk5fQ.r4Ryw9aT-jB1O2j_uQ7Ba0_noUFpkX8KZcOOyLSa_s0",
+      "userId": "018f92a1-7c4a-71b3-8fa9-715d2a901e01",
+      "tenantId": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "expiresAt": "2026-10-01T05:03:19.343Z",
+      "id": "89f89365-2639-4ca9-a746-d01830cb5678",
+      "createdAt": "2026-09-30T05:03:19.343Z"
+    }
+  ],
+  "passwordResets": [
+    {
+      "userId": "93fff82e-3c77-48f0-be38-d73d5b55e9cc",
+      "token": "215c579c8ee9a575f828382dc83f95160efbae081b269a01ea9d2502221ee0ec",
+      "expiresAt": "2026-09-30T05:03:24.603Z",
+      "id": "cfd49959-e974-42d3-acdb-b26f69091d15",
+      "used": true,
+      "createdAt": "2026-09-30T04:48:24.603Z"
+    },
+    {
+      "userId": "974ebf48-53b6-4072-8c1c-dfa237ac0713",
+      "token": "32c3a0ee2973ff1e22baf556c8e2d715f2f2cb5aa77ee0908dc2d54fb902b578",
+      "expiresAt": "2026-09-30T05:06:39.538Z",
+      "id": "ec6c8e13-0f51-49e0-b08b-9bad63a35627",
+      "used": true,
+      "createdAt": "2026-09-30T04:51:39.538Z"
+    },
+    {
+      "userId": "91e527c1-8906-461f-8340-e5413a921f7b",
+      "token": "2287ccbbfa1297c609010e9a07f90a92f85acf1a8549537bd966999670e43008",
+      "expiresAt": "2026-09-30T05:09:57.729Z",
+      "id": "b85a7164-f7f5-441d-af54-f4daec344063",
+      "used": true,
+      "createdAt": "2026-09-30T04:54:57.729Z"
+    },
+    {
+      "userId": "789f865c-361a-4a3d-a238-2473be877468",
+      "token": "fa016083d527ca69a3442d24af5099cafbeea6589432446495c41ddaf4784ec9",
+      "expiresAt": "2026-09-30T05:13:13.073Z",
+      "id": "871637a4-25d4-412b-8cab-e162a233e63c",
+      "used": true,
+      "createdAt": "2026-09-30T04:58:13.073Z"
+    },
+    {
+      "userId": "054006af-ddda-4452-85f0-bf49ff42eb1a",
+      "token": "ccbee5c355640180f64bc30dd5fb296bb8e81b1949ce8e45b024fd7effb36b7e",
+      "expiresAt": "2026-09-30T05:16:58.307Z",
+      "id": "caad5364-08b2-45b5-9c72-e5e3c5b9e29f",
+      "used": true,
+      "createdAt": "2026-09-30T05:01:58.307Z"
+    },
+    {
+      "userId": "7dea2239-4765-4813-a608-9b117548e686",
+      "token": "b2ea852336c5b15b805d70a955d8b059b6fcf5f769df7cd39b5891b662c46ce1",
+      "expiresAt": "2026-09-30T05:17:55.232Z",
+      "id": "6a9f4b22-cde8-4d62-ab95-f930c461c2f0",
+      "used": true,
+      "createdAt": "2026-09-30T05:02:55.233Z"
+    }
+  ],
+  "ledgers": [
+    {
+      "tenantId": "a2e46486-2b74-4953-8516-f3d9c7e0726c",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "f8e81de4-9a1b-4d2e-bdd4-56c410585dea",
+      "createdAt": "2026-09-30T04:57:31.721Z"
+    },
+    {
+      "tenantId": "a2e46486-2b74-4953-8516-f3d9c7e0726c",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "986a59e4-2a45-4d81-a445-1ecbce48f9cf",
+      "createdAt": "2026-09-30T04:57:31.721Z"
+    },
+    {
+      "tenantId": "",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "ac0f710d-2f85-4f53-a98e-f6fd8e74fa77",
+      "createdAt": "2026-09-30T04:57:31.723Z"
+    },
+    {
+      "tenantId": "a2e46486-2b74-4953-8516-f3d9c7e0726c",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "52e2dd1e-2ba7-44af-a5ca-12bd086f0ee8",
+      "createdAt": "2026-09-30T04:57:31.724Z"
+    },
+    {
+      "tenantId": "ba28fde4-a3e9-4a6a-a4ee-e04d453a40ce",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "80bd9e5f-43fa-408a-8b74-fc87090576a3",
+      "createdAt": "2026-09-30T04:57:57.501Z"
+    },
+    {
+      "tenantId": "ba28fde4-a3e9-4a6a-a4ee-e04d453a40ce",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "fdbef9be-2510-4df1-b95c-910f66bc42a5",
+      "createdAt": "2026-09-30T04:57:57.501Z"
+    },
+    {
+      "tenantId": "a8e9a6cc-16a7-4240-8c14-3045a391c843",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "e526d340-0083-4ab0-a4e3-d62347c4001f",
+      "createdAt": "2026-09-30T04:57:57.503Z"
+    },
+    {
+      "tenantId": "a8e9a6cc-16a7-4240-8c14-3045a391c843",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "08c84a45-fb8c-4455-bf88-e594ca6188aa",
+      "createdAt": "2026-09-30T04:57:57.504Z"
+    },
+    {
+      "tenantId": "",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "97dc41ae-34c7-402f-adb0-d6959d8d6965",
+      "createdAt": "2026-09-30T04:57:57.506Z"
+    },
+    {
+      "tenantId": "a8e9a6cc-16a7-4240-8c14-3045a391c843",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "128312bf-2d53-4d84-a8cc-b1d407ff4f68",
+      "createdAt": "2026-09-30T04:57:57.507Z"
+    },
+    {
+      "tenantId": "ebc4162f-9955-4059-801f-abd58fe20f12",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "5c605bca-aff4-43ac-86e4-452ede093216",
+      "createdAt": "2026-09-30T04:58:06.949Z"
+    },
+    {
+      "tenantId": "ebc4162f-9955-4059-801f-abd58fe20f12",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "bfba129c-69f5-4fc5-a3b4-7bb7fe010e9f",
+      "createdAt": "2026-09-30T04:58:06.950Z"
+    },
+    {
+      "tenantId": "e9e02b2b-03b2-4009-8257-48a1eea9a8bd",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "3c57e6ed-6e92-4d2f-bb07-68f2a7414e27",
+      "createdAt": "2026-09-30T04:58:06.953Z"
+    },
+    {
+      "tenantId": "e9e02b2b-03b2-4009-8257-48a1eea9a8bd",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "38d3a651-6d4f-40a8-bcbc-099ce350032a",
+      "createdAt": "2026-09-30T04:58:06.953Z"
+    },
+    {
+      "tenantId": "ebc4162f-9955-4059-801f-abd58fe20f12",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "34532e8b-9f9d-4cfe-906e-047863165932",
+      "createdAt": "2026-09-30T04:58:06.956Z"
+    },
+    {
+      "tenantId": "e9e02b2b-03b2-4009-8257-48a1eea9a8bd",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "19489881-da77-4344-8d2e-ccda66aef33b",
+      "createdAt": "2026-09-30T04:58:06.957Z"
+    },
+    {
+      "tenantId": "5242f8da-ed25-4ed1-ae1d-3c423838b7c1",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "07855aca-aeea-463e-bc6a-f22bbb4830b5",
+      "createdAt": "2026-09-30T04:58:13.830Z"
+    },
+    {
+      "tenantId": "5242f8da-ed25-4ed1-ae1d-3c423838b7c1",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "e770dd17-ff3f-400d-89a9-1318494ef749",
+      "createdAt": "2026-09-30T04:58:13.831Z"
+    },
+    {
+      "tenantId": "7f4fc71e-34cb-4434-a2a1-a322f76b33d6",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "833f8d0d-abb9-48d4-a4e1-7ace96dc200a",
+      "createdAt": "2026-09-30T04:58:13.834Z"
+    },
+    {
+      "tenantId": "7f4fc71e-34cb-4434-a2a1-a322f76b33d6",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "041d0842-7440-499a-a1cb-4272789fd0ff",
+      "createdAt": "2026-09-30T04:58:13.834Z"
+    },
+    {
+      "tenantId": "5242f8da-ed25-4ed1-ae1d-3c423838b7c1",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "50c4598b-a9c8-4077-aa23-6d57ccf9f055",
+      "createdAt": "2026-09-30T04:58:13.837Z"
+    },
+    {
+      "tenantId": "7f4fc71e-34cb-4434-a2a1-a322f76b33d6",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "9f2fe467-658c-4021-a484-4ca56c3095da",
+      "createdAt": "2026-09-30T04:58:13.838Z"
+    },
+    {
+      "tenantId": "fba3a317-538d-414c-beaf-1abbb89ba957",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "4b12ba7c-2d09-49f4-955b-14feca794d9e",
+      "createdAt": "2026-09-30T05:01:59.061Z"
+    },
+    {
+      "tenantId": "fba3a317-538d-414c-beaf-1abbb89ba957",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "726d68b6-1d9d-402a-9694-18dc2f83afcc",
+      "createdAt": "2026-09-30T05:01:59.061Z"
+    },
+    {
+      "tenantId": "899714ce-ebbc-40cc-a578-e16d3f5f80e8",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "3bcff771-8aed-405a-8621-87a6522c64cf",
+      "createdAt": "2026-09-30T05:01:59.065Z"
+    },
+    {
+      "tenantId": "899714ce-ebbc-40cc-a578-e16d3f5f80e8",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "995584b2-969a-49f8-8ece-8b0567506250",
+      "createdAt": "2026-09-30T05:01:59.065Z"
+    },
+    {
+      "tenantId": "fba3a317-538d-414c-beaf-1abbb89ba957",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "16542d63-0f0f-4eac-b1cb-dbcd30ad5dda",
+      "createdAt": "2026-09-30T05:01:59.069Z"
+    },
+    {
+      "tenantId": "899714ce-ebbc-40cc-a578-e16d3f5f80e8",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "931a37df-c061-4189-b9e1-26ef473198ba",
+      "createdAt": "2026-09-30T05:01:59.069Z"
+    },
+    {
+      "tenantId": "46adea70-bb23-4c44-805e-3ee1c407dd8e",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "4c0eb77a-84c8-4e4c-b559-355a5067039f",
+      "createdAt": "2026-09-30T05:02:35.322Z"
+    },
+    {
+      "tenantId": "46adea70-bb23-4c44-805e-3ee1c407dd8e",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "7e34eb89-69a9-46e7-b347-4f4333f96c37",
+      "createdAt": "2026-09-30T05:02:35.323Z"
+    },
+    {
+      "tenantId": "ed9143af-252a-468e-ab43-80b234832446",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "32d2a53c-24a6-47f8-995a-4bbd3cca2cdf",
+      "createdAt": "2026-09-30T05:02:35.327Z"
+    },
+    {
+      "tenantId": "ed9143af-252a-468e-ab43-80b234832446",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "2e593aa9-331c-4e80-b90c-e05778ff89b7",
+      "createdAt": "2026-09-30T05:02:35.328Z"
+    },
+    {
+      "tenantId": "46adea70-bb23-4c44-805e-3ee1c407dd8e",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "0327fc76-b6c6-4838-8dc7-7179905128c7",
+      "createdAt": "2026-09-30T05:02:35.340Z"
+    },
+    {
+      "tenantId": "ed9143af-252a-468e-ab43-80b234832446",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "b8ca4407-f0c4-47e3-be35-443a65e9f271",
+      "createdAt": "2026-09-30T05:02:35.342Z"
+    },
+    {
+      "tenantId": "f7463125-3853-44cf-8285-b93e5e1c5591",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "e44e6ba8-8d68-42cb-97e6-f80ff1a67009",
+      "createdAt": "2026-09-30T05:02:55.985Z"
+    },
+    {
+      "tenantId": "f7463125-3853-44cf-8285-b93e5e1c5591",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "fc9a1482-2ec3-431c-99c1-8120ca29b2c6",
+      "createdAt": "2026-09-30T05:02:55.986Z"
+    },
+    {
+      "tenantId": "32439459-711a-47c4-a801-2ee5ab23e970",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "8f0fcba2-b831-44f9-8e2d-0ccd2655b810",
+      "createdAt": "2026-09-30T05:02:55.990Z"
+    },
+    {
+      "tenantId": "32439459-711a-47c4-a801-2ee5ab23e970",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "6cc5bf05-84f6-4dd8-bde1-008181e668e8",
+      "createdAt": "2026-09-30T05:02:55.991Z"
+    },
+    {
+      "tenantId": "f7463125-3853-44cf-8285-b93e5e1c5591",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "86f8f212-ab52-45a3-8a40-b69022ce275a",
+      "createdAt": "2026-09-30T05:02:55.994Z"
+    },
+    {
+      "tenantId": "32439459-711a-47c4-a801-2ee5ab23e970",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "997485a2-1c03-4f01-ac9d-ed8ce7c93b46",
+      "createdAt": "2026-09-30T05:02:55.995Z"
+    },
+    {
+      "tenantId": "d3833d3e-e83b-48c5-932b-98abf7dc0667",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "c95e3155-588e-495c-ac0d-5df9a83b2e6f",
+      "createdAt": "2026-09-30T05:03:19.332Z"
+    },
+    {
+      "tenantId": "d3833d3e-e83b-48c5-932b-98abf7dc0667",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "7f8b0272-1b15-4461-a8d8-68ab77afc59c",
+      "createdAt": "2026-09-30T05:03:19.333Z"
+    },
+    {
+      "tenantId": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "name": "Cash Account",
+      "groupName": "Cash-in-Hand",
+      "openingBalance": 0,
+      "balanceType": "DR",
+      "id": "5a651f3a-3135-4cf2-8e77-d5f8a085d1ac",
+      "createdAt": "2026-09-30T05:03:19.338Z"
+    },
+    {
+      "tenantId": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "name": "Profit & Loss A/c",
+      "groupName": "Primary",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "c045a297-e802-4002-8713-35bbc9dd8b81",
+      "createdAt": "2026-09-30T05:03:19.339Z"
+    },
+    {
+      "tenantId": "d3833d3e-e83b-48c5-932b-98abf7dc0667",
+      "name": "TCS Consulting Revenue - North America",
+      "groupName": "Direct Incomes",
+      "openingBalance": 0,
+      "balanceType": "CR",
+      "id": "6675eb71-6137-401d-bc46-b99dc6c9dae4",
+      "createdAt": "2026-09-30T05:03:19.345Z"
+    },
+    {
+      "tenantId": "4582778b-5e1a-4644-9ee0-0d3c9bfa776d",
+      "name": "Reliance Retail Hypermarket Inventory Ledger",
+      "groupName": "Stock-in-Hand",
+      "openingBalance": 5000000,
+      "balanceType": "DR",
+      "id": "a985ef21-69a5-4249-b545-a4f65fa8aecd",
+      "createdAt": "2026-09-30T05:03:19.346Z"
+    }
+  ],
+  "vouchers": []
+}
