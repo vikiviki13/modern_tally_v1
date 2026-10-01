@@ -8,9 +8,11 @@
     "start": "tsx server.ts",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "tsx tests/auth.test.ts && tsx tests/company.test.ts",
+    "test": "tsx tests/auth.test.ts && tsx tests/company.test.ts && tsx tests/accounting.test.ts && tsx tests/ledger.test.ts",
     "test:auth": "tsx tests/auth.test.ts",
     "test:company": "tsx tests/company.test.ts",
+    "test:accounting": "tsx tests/accounting.test.ts",
+    "test:ledger": "tsx tests/ledger.test.ts",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"
   },

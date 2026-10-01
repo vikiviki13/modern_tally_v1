@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import dotenv from 'dotenv';
 import { authRouter } from './server/auth/routes';
 import { companyRouter } from './server/company/routes';
+import { accountingRouter } from './server/accounting/routes';
 
 dotenv.config();
 
@@ -21,6 +22,7 @@ async function startServer() {
   // Mount API Routes
   app.use('/api/auth', authRouter);
   app.use('/api/companies', companyRouter);
+  app.use('/api/accounting', accountingRouter);
 
   // Health check endpoint
   app.get('/api/health', (_req, res) => {

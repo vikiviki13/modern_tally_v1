@@ -281,7 +281,10 @@ export async function runAuthTests(): Promise<{ passed: boolean; total: number; 
 }
 
 // If executed directly from CLI:
-if (import.meta.url === `file://${process.argv[1]}`) {
+import { fileURLToPath as __fileURLToPath } from 'node:url';
+import __path from 'node:path';
+const isDirectCli = process.argv[1] && (__path.resolve(process.argv[1]).toLowerCase() === __fileURLToPath(import.meta.url).toLowerCase());
+if (isDirectCli) {
   console.log('\n======================================================');
   console.log(' RUNNING PHASE 04 AUTHENTICATION & FOUNDATION TESTS');
   console.log('======================================================\n');
